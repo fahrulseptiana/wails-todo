@@ -28,6 +28,11 @@ This is my desktop To-Do app(s) built using [Wails](https:///wails.app/).
 - [x] Update Todo
 - [ ] Delete Todo
 
+## Prerequisite
+
+- NodeJS v20.16.0
+- Go v1.22.5
+
 ## Live Development
 
 To run in live development mode, run `wails dev` in the project directory. This will run a Vite development
