@@ -19,6 +19,7 @@ This is my desktop To-Do app(s) built using [Wails](https:///wails.app/).
 - [Go (Golang) v1.22.5](https://go.dev/)
 - [BBolt](https://github.com/etcd-io/bbolt)
 - [mapstructure](https://github.com/go-viper/mapstructure)
+- [ulid](https://github.com/oklog/ulid)
 
 ## What to finish
 
